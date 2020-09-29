@@ -8,6 +8,7 @@
 		"url": "https://github.com/mgmeyers/vscode-markdown-theme.git",
 		"type": "git"
 	},
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -119,6 +120,6 @@
 	},
 	"dependencies": {
 		"chroma-js": "^2.1.0",
-		"validate-color": "^2.1.0"
+		"valid-web-color": "^1.0.1"
 	}
 }

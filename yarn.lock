@@ -1449,10 +1449,10 @@ v8-compile-cache@^2.0.3:
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.1.1.tgz#54bc3cdd43317bca91e35dcaf305b1a7237de745"
   integrity sha512-8OQ9CL+VWyt3JStj7HX7/ciTL2V3Rl1Wf5OL+SNTm0yK1KvtReVulksyeRnCANHHuUxHlQig+JJDlUhBt1NQDQ==
 
-validate-color@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/validate-color/-/validate-color-2.1.0.tgz#ba32664db859a197c19520b50316b8b8d5ffa0bc"
-  integrity sha512-/78x9MDsanOisNfa4UxombQkPCE2A/hmFUtgunwGutpAgTRnhKvOhzJ4KeSDunbKEla6T+u0OlHd1hWCLVhSdA==
+valid-web-color@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/valid-web-color/-/valid-web-color-1.0.1.tgz#e4440fb28bcd84f26fb44c9a474b3d0a6261d843"
+  integrity sha1-5EQPsovNhPJvtEyaR0s9CmJh2EM=
 
 vscode-test@^1.4.0:
   version "1.4.0"

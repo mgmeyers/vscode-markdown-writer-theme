@@ -1,7 +1,7 @@
 import fs from 'fs'
 import chroma from 'chroma-js'
 import vscode from 'vscode'
-import validateColor from 'validate-color'
+import validateColor from 'valid-web-color'
 
 import { getConfig, Variant } from './config'
 import path from 'path'
