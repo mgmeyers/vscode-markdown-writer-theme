@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"publisher": "mgmeyers",
 	"repository": {
-		"url": "https://github.com/mgmeyers/vscode-markdown-theme.git",
+		"url": "https://github.com/mgmeyers/vscode-markdown-writer-theme.git",
 		"type": "git"
 	},
 	"license": "MIT",
