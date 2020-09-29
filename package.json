@@ -37,7 +37,7 @@
 			{
 				"language": "markdown-writer-theme",
 				"scopeName": "text.markdown.writer",
-				"path": "./syntaxes/notes.tmLanguage.json",
+				"path": "./syntaxes/markdownWriter.tmLanguage.json",
 				"injectTo": [
 					"text.html.markdown",
 					"text.html.markdown.jsx"
