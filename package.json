@@ -2,7 +2,7 @@
 	"name": "markdown-writer-theme",
 	"displayName": "Markdown Writer Theme",
 	"description": "Minimalist themes for writing markdown",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "mgmeyers",
 	"repository": {
 		"url": "https://github.com/mgmeyers/vscode-markdown-writer-theme.git",
