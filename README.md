@@ -4,13 +4,13 @@ Minimalist themes for writing markdown. There are two variants: `light` and `dar
 
 Default Dark
 
-![Default Dark](assets/dark-default.png)
+![Default Dark](./assets/dark-default.png)
 
 ---
 
 Default Light
 
-![Default Light](assets/light-default.png)
+![Default Light](./assets/light-default.png)
 
 ---
 
@@ -22,7 +22,7 @@ Custom Dark
 "markdown-writer-theme.dark.foregroundColor": "#c5cdd3",
 ```
 
-![Custom Dark](assets/dark-custom.png)
+![Custom Dark](./assets/dark-custom.png)
 
 ---
 
@@ -34,4 +34,4 @@ Custom Light
 "markdown-writer-theme.light.foregroundColor": "#242f40",
 ```
 
-![Custom Light](assets/light-custom.png)
+![Custom Light](./assets/light-custom.png)
