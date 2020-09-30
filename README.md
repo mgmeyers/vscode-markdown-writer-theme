@@ -1,8 +1,8 @@
 # Markdown Writer
 
-Minimalist themes for writing markdown. There are two variants: `light` and `dark`. Each variant is controlled by three customizable color setting: `foregroundColor`, `backgroundColor`, and `accentColor`.
+Minimalist themes for writing markdown. There are two variants: `light` and `dark`. Each variant is controlled by three customizable color settings: `foregroundColor`, `backgroundColor`, and `accentColor`.
 
-This theme was built for my own needs. Notice any issue or anything missing? Feel free to open an issue or make a pull request!
+This theme was built for my own needs. Notice an issue or anything missing? Feel free to open an issue or make a pull request!
 
 ---
 
