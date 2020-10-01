@@ -11,16 +11,10 @@ const themeSettings = [
     'markdown-writer-theme.dark.foregroundColor',
 ]
 
-function getIsDirEmpty(dir: string) {
-    return fs.readdirSync(dir).length === 0
-}
-
 export function activate(context: vscode.ExtensionContext) {
     const themePath = context.asAbsolutePath('themes')
 
-    if (getIsDirEmpty(themePath)) {
-        generateThemes(themePath)
-    }
+    generateThemes(themePath)
 
     context.subscriptions.push(
         vscode.commands.registerCommand('markdown-writer-theme.update', () =>
