@@ -526,6 +526,7 @@ export function generateThemes(themeDir: string) {
                 {
                     name: 'wiki-link punctuation',
                     scope: [
+                        'support.function.text.markdown.writer.wiki-link.ref',
                         'punctuation.definition.wiki-link',
                         'punctuation.definition.string.begin.markdown',
                         'punctuation.definition.string.end.markdown',

@@ -4,16 +4,19 @@
     "injectionSelector": "L:text.html.markdown",
     "patterns": [
         {
-            "match": "(\\[\\[)([^\\]]+)(\\]\\])",
+            "match": "(\\[\\[)([^\\|\\]]+\\|)?([^\\|\\]]+)(\\]\\])",
             "name": "text.markdown.writer.wiki-link",
             "captures": {
                 "1": {
                     "name": "punctuation.definition.wiki-link"
                 },
                 "2": {
-                    "name": "support.function.text.markdown.writer.wiki-link.title"
+                    "name": "support.function.text.markdown.writer.wiki-link.ref"
                 },
                 "3": {
+                    "name": "support.function.text.markdown.writer.wiki-link.title"
+                },
+                "4": {
                     "name": "punctuation.definition.wiki-link"
                 }
             }
