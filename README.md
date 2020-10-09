@@ -8,6 +8,8 @@ This theme was built for my own needs. Notice an issue or anything missing? Feel
 
 Here are some of my favorite eye-friendly color combos taken from the [Noctis themes](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
 
+[Input Mono Narrow](https://input.fontbureau.com/preview/?size=14&language=python&theme=solarized-dark&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=0&l=0&zero=0&asterisk=height&braces=straight&preset=default&customize=please) is the font used in all screenshots below
+
 ## Light
 
 ![Light 01](https://github.com/mgmeyers/vscode-markdown-writer-theme/raw/main/assets/light-01.png)
