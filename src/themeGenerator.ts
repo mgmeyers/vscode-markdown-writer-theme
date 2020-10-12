@@ -468,7 +468,6 @@ export function generateThemes(themeDir: string) {
                     scope: [
                         'meta.diff.range',
                         'meta.diff.index',
-                        'meta.separator',
                     ],
                     settings: {
                         foreground: getForeground(0),
@@ -499,7 +498,10 @@ export function generateThemes(themeDir: string) {
                 },
                 {
                     name: 'Heading punctuation',
-                    scope: ['punctuation.definition.heading.markdown'],
+                    scope: [
+                        'meta.separator',
+                        'punctuation.definition.heading.markdown',
+                    ],
                     settings: {
                         foreground: getForeground(70),
                         fontStyle: '',

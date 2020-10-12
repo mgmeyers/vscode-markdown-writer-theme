@@ -451,8 +451,7 @@
             "name": "Extra: Diff Range",
             "scope": [
                 "meta.diff.range",
-                "meta.diff.index",
-                "meta.separator"
+                "meta.diff.index"
             ],
             "settings": {
                 "foreground": "#b2cacd"
@@ -483,6 +482,7 @@
         {
             "name": "Heading punctuation",
             "scope": [
+                "meta.separator",
                 "punctuation.definition.heading.markdown"
             ],
             "settings": {
